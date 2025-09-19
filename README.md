@@ -1,7 +1,7 @@
 # Streamlined-Expense-Approval-System
 
 
-Expense Request Approval Process
+Streamlined Expense Approval System
 
 Project Overview
 
